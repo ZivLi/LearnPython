@@ -1,9 +1,4 @@
 # LearnPython
 以撸代码的形式学习Python
 
-+ 致力于成为python初学者的启蒙项目  
-+ 致力于成为本组织明星项目（逃。。  
-+ 致力于打造中文版[python koans](https://github.com/gregmalcolm/python_koans)  
-+ 致力于...  
-
-*Chinese Python Organization produce*
+# 没人提交啊？建议我们的第一个目标就是把`python_base.py`改成可执行的（缩进、语法都改好），还可以在每个知识点处打印一些你觉得对初学者有帮助的提示语什么的，不用提pull request，你可以直接提交代码，有错误大家一起指出不用害羞，这样对同样是初学者的你也会有很大的帮助！大家一起努力！
